@@ -1,0 +1,61 @@
+season,team_id,name,shortName,tla,crestUrl,address,founded,games_played,wins,draws,losses,goals_for,goals_against
+2023,57,Arsenal FC,Arsenal,ARS,https://crests.football-data.org/57.png,75 Drayton Park London N5 1BU,1886.0,38,28,5,5,91,29
+2023,58,Aston Villa FC,Aston Villa,AVL,https://crests.football-data.org/58.png,Villa Park Birmingham B6 6HE,1872.0,38,20,8,10,76,61
+2023,61,Chelsea FC,Chelsea,CHE,https://crests.football-data.org/61.png,Fulham Road London SW6 1HS,1905.0,38,18,9,11,77,63
+2023,62,Everton FC,Everton,EVE,https://crests.football-data.org/62.png,Goodison Park Liverpool L4 4EL,1878.0,38,13,9,16,40,51
+2023,63,Fulham FC,Fulham,FUL,https://crests.football-data.org/63.png,"Craven Cottage, Stevenage Road London SW6 6HH",1879.0,38,13,8,17,55,61
+2023,64,Liverpool FC,Liverpool,LIV,https://crests.football-data.org/64.png,Anfield Road Liverpool L4 0TH,1892.0,38,24,10,4,86,41
+2023,65,Manchester City FC,Man City,MCI,https://crests.football-data.org/65.png,SportCity Manchester M11 3FF,1880.0,38,28,7,3,96,34
+2023,66,Manchester United FC,Man United,MUN,https://crests.football-data.org/66.png,Sir Matt Busby Way Manchester M16 0RA,1878.0,38,18,6,14,57,58
+2023,67,Newcastle United FC,Newcastle,NEW,https://crests.football-data.org/67.png,Sports Direct Arena Newcastle upon Tyne NE1 4ST,1881.0,38,18,6,14,85,62
+2023,73,Tottenham Hotspur FC,Tottenham,TOT,https://crests.football-data.org/73.png,"Bill Nicholson Way, 748 High Road London N17 0AP",1882.0,38,20,6,12,74,61
+2023,76,Wolverhampton Wanderers FC,Wolverhampton,WOL,https://crests.football-data.org/76.png,Waterloo Road Wolverhampton WV1 4QR,1877.0,38,13,7,18,50,65
+2023,328,Burnley FC,Burnley,BUR,https://crests.football-data.org/328.png,Harry Potts Way Burnley BB10 4BX,1881.0,38,5,9,24,41,78
+2023,351,Nottingham Forest FC,Nottingham,NOT,https://crests.football-data.org/351.png,"Pavilion Road, West Bridgeford Nottingham NG2 5GJ",1865.0,38,9,9,20,49,67
+2023,354,Crystal Palace FC,Crystal Palace,CRY,https://crests.football-data.org/354.png,Whitehorse Lane London SE25 6PU,1905.0,38,13,10,15,57,58
+2023,356,Sheffield United FC,Sheffield Utd,SHE,https://crests.football-data.org/356.png,"Bramall Lane Sheffield, Yorkshire S2 4SU",,38,3,7,28,35,104
+2023,389,Luton Town FC,Luton Town,LUT,https://crests.football-data.org/389.png,1 Maple Road Luton LU4 8AW,1885.0,38,6,8,24,52,85
+2023,397,Brighton & Hove Albion FC,Brighton Hove,BHA,https://crests.football-data.org/397.png,44 North Road Brighton & Hove BN1 1YR,1898.0,38,12,12,14,55,62
+2023,402,Brentford FC,Brentford,BRE,https://crests.football-data.org/402.png,Braemar Road Brentford TW8 0NT,1889.0,38,10,9,19,56,65
+2023,563,West Ham United FC,West Ham,WHU,https://crests.football-data.org/563.png,"Queen Elizabeth Olympic Park, London London E20 2ST",1895.0,38,14,10,14,60,74
+2023,1044,AFC Bournemouth,Bournemouth,BOU,https://crests.football-data.org/bournemouth.png,"Dean Court, Kings Park Bournemouth BH7 7AF",1890.0,38,13,9,16,54,67
+2024,57,Arsenal FC,Arsenal,ARS,https://crests.football-data.org/57.png,75 Drayton Park London N5 1BU,1886.0,38,20,14,4,69,34
+2024,58,Aston Villa FC,Aston Villa,AVL,https://crests.football-data.org/58.png,Villa Park Birmingham B6 6HE,1872.0,38,19,9,10,58,51
+2024,61,Chelsea FC,Chelsea,CHE,https://crests.football-data.org/61.png,Fulham Road London SW6 1HS,1905.0,38,20,9,9,64,43
+2024,62,Everton FC,Everton,EVE,https://crests.football-data.org/62.png,Goodison Park Liverpool L4 4EL,1878.0,38,11,15,12,42,44
+2024,63,Fulham FC,Fulham,FUL,https://crests.football-data.org/63.png,"Craven Cottage, Stevenage Road London SW6 6HH",1879.0,38,15,9,14,54,54
+2024,64,Liverpool FC,Liverpool,LIV,https://crests.football-data.org/64.png,Anfield Road Liverpool L4 0TH,1892.0,38,25,9,4,86,41
+2024,65,Manchester City FC,Man City,MCI,https://crests.football-data.org/65.png,SportCity Manchester M11 3FF,1880.0,38,21,8,9,72,44
+2024,66,Manchester United FC,Man United,MUN,https://crests.football-data.org/66.png,Sir Matt Busby Way Manchester M16 0RA,1878.0,38,11,9,18,44,54
+2024,67,Newcastle United FC,Newcastle,NEW,https://crests.football-data.org/67.png,Sports Direct Arena Newcastle upon Tyne NE1 4ST,1881.0,38,20,6,12,68,47
+2024,73,Tottenham Hotspur FC,Tottenham,TOT,https://crests.football-data.org/73.png,"Bill Nicholson Way, 748 High Road London N17 0AP",1882.0,38,11,5,22,64,65
+2024,76,Wolverhampton Wanderers FC,Wolverhampton,WOL,https://crests.football-data.org/76.png,Waterloo Road Wolverhampton WV1 4QR,1877.0,38,12,6,20,54,69
+2024,338,Leicester City FC,Leicester City,LEI,https://crests.football-data.org/338.png,"The Walkers Stadium, Filbert Way Leicester LE2 7FL",1884.0,38,6,7,25,33,80
+2024,340,Southampton FC,Southampton,SOU,https://crests.football-data.org/340.png,Britannia Road Southampton SO14 5FP,1885.0,38,2,6,30,26,86
+2024,349,Ipswich Town FC,Ipswich Town,IPS,https://crests.football-data.org/349.png,Portman Road Ipswich IP1 2DA,1887.0,38,4,10,24,36,82
+2024,351,Nottingham Forest FC,Nottingham,NOT,https://crests.football-data.org/351.png,"Pavilion Road, West Bridgeford Nottingham NG2 5GJ",1865.0,38,19,8,11,58,46
+2024,354,Crystal Palace FC,Crystal Palace,CRY,https://crests.football-data.org/354.png,Whitehorse Lane London SE25 6PU,1905.0,38,13,14,11,51,51
+2024,397,Brighton & Hove Albion FC,Brighton Hove,BHA,https://crests.football-data.org/397.png,44 North Road Brighton & Hove BN1 1YR,1898.0,38,16,13,9,66,59
+2024,402,Brentford FC,Brentford,BRE,https://crests.football-data.org/402.png,Braemar Road Brentford TW8 0NT,1889.0,38,16,8,14,66,57
+2024,563,West Ham United FC,West Ham,WHU,https://crests.football-data.org/563.png,"Queen Elizabeth Olympic Park, London London E20 2ST",1895.0,38,11,10,17,46,62
+2024,1044,AFC Bournemouth,Bournemouth,BOU,https://crests.football-data.org/bournemouth.png,"Dean Court, Kings Park Bournemouth BH7 7AF",1890.0,38,15,11,12,58,46
+2025,57,Arsenal FC,Arsenal,ARS,https://crests.football-data.org/57.png,75 Drayton Park London N5 1BU,1886.0,5,3,1,1,10,2
+2025,58,Aston Villa FC,Aston Villa,AVL,https://crests.football-data.org/58.png,Villa Park Birmingham B6 6HE,1872.0,5,0,3,2,1,5
+2025,61,Chelsea FC,Chelsea,CHE,https://crests.football-data.org/61.png,Fulham Road London SW6 1HS,1905.0,5,2,2,1,10,5
+2025,62,Everton FC,Everton,EVE,https://crests.football-data.org/62.png,Goodison Park Liverpool L4 4EL,1878.0,5,2,1,2,6,5
+2025,63,Fulham FC,Fulham,FUL,https://crests.football-data.org/63.png,"Craven Cottage, Stevenage Road London SW6 6HH",1879.0,5,2,2,1,6,5
+2025,64,Liverpool FC,Liverpool,LIV,https://crests.football-data.org/64.png,Anfield Road Liverpool L4 0TH,1892.0,5,5,0,0,11,5
+2025,65,Manchester City FC,Man City,MCI,https://crests.football-data.org/65.png,SportCity Manchester M11 3FF,1880.0,5,2,1,2,9,5
+2025,66,Manchester United FC,Man United,MUN,https://crests.football-data.org/66.png,Sir Matt Busby Way Manchester M16 0RA,1878.0,5,2,1,2,6,8
+2025,67,Newcastle United FC,Newcastle,NEW,https://crests.football-data.org/67.png,Sports Direct Arena Newcastle upon Tyne NE1 4ST,1881.0,5,1,3,1,3,3
+2025,71,Sunderland AFC,Sunderland,SUN,https://crests.football-data.org/71.png,The Sunderland Stadium of Light Sunderland SR5 1SU,1879.0,5,2,2,1,6,4
+2025,73,Tottenham Hotspur FC,Tottenham,TOT,https://crests.football-data.org/73.png,"Bill Nicholson Way, 748 High Road London N17 0AP",1882.0,5,3,1,1,10,3
+2025,76,Wolverhampton Wanderers FC,Wolverhampton,WOL,https://crests.football-data.org/76.png,Waterloo Road Wolverhampton WV1 4QR,1877.0,5,0,0,5,3,12
+2025,328,Burnley FC,Burnley,BUR,https://crests.football-data.org/328.png,Harry Potts Way Burnley BB10 4BX,1881.0,5,1,1,3,5,8
+2025,341,Leeds United FC,Leeds United,LEE,https://crests.football-data.org/341.png,Elland Road Leeds LS11 0ES,1904.0,5,2,1,2,4,7
+2025,351,Nottingham Forest FC,Nottingham,NOT,https://crests.football-data.org/351.png,"Pavilion Road, West Bridgeford Nottingham NG2 5GJ",1865.0,5,1,2,2,5,9
+2025,354,Crystal Palace FC,Crystal Palace,CRY,https://crests.football-data.org/354.png,Whitehorse Lane London SE25 6PU,1905.0,5,2,3,0,6,2
+2025,397,Brighton & Hove Albion FC,Brighton Hove,BHA,https://crests.football-data.org/397.png,44 North Road Brighton & Hove BN1 1YR,1898.0,5,1,2,2,6,8
+2025,402,Brentford FC,Brentford,BRE,https://crests.football-data.org/402.png,Braemar Road Brentford TW8 0NT,1889.0,5,1,1,3,6,10
+2025,563,West Ham United FC,West Ham,WHU,https://crests.football-data.org/563.png,"Queen Elizabeth Olympic Park, London London E20 2ST",1895.0,5,1,0,4,5,13
+2025,1044,AFC Bournemouth,Bournemouth,BOU,https://crests.football-data.org/bournemouth.png,"Dean Court, Kings Park Bournemouth BH7 7AF",1890.0,5,3,1,1,6,5
